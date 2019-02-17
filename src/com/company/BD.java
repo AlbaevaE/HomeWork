@@ -78,7 +78,7 @@ public class BD {
 //            catch()
 //        }
  //   }
-
+//
 
     public HashMap<Car,CarInfo> getAll() {
         HashMap<Car,CarInfo> carsHash=new HashMap<>();
